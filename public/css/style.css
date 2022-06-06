@@ -1,0 +1,72 @@
+body{
+    margin-left: 120px;
+    margin-right: 120px;
+    border: 1px solid black;
+}
+.bien{
+    font-size: 40px;
+}
+.active{
+    color: #a90932 !important;
+    font-size: 25px !important;
+}
+.navbar{
+    background-color: orange !important;
+    height: 130px !important;
+}
+.ratio-4x3{
+    width: auto !important;
+    height: 150px !important;
+    text-align: center !important;
+    font-size: 60px;
+    text-transform: capitalize;
+    background-color: rgb(201, 236, 241);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+h1{
+    margin-top: 40px;
+}
+.butv{
+    background-color: orange !important;
+    color: blue !important;
+}
+.butw{
+    background-color: white !important;
+    color: blue !important;
+}
+.p-md-4{
+    background-color: rgb(232, 232, 57) !important;
+    height: 300px !important;
+}
+.row{
+    margin-top: 30px;
+}
+.foot{
+    font-size: 20px !important;
+    color: white !important;
+}
+.footer1{
+    background-color: black;
+    color: white !important;
+}
+a{
+    text-decoration: none !important;
+}
+
+.formulaire{
+    font-size: 20px;
+   background-color: rgb(192, 176, 176);
+    border-radius: 20px;
+    width: 300px;
+    height: 55px;
+
+}
+.formula{
+    background-color: green;
+    color: black;
+    border-radius: 20px;
+    margin-right: 400px;
+    height: 50px;
+}
